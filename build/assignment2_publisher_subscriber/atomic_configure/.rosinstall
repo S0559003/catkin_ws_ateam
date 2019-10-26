@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/catkin_ws_ateam/devel/.private/assignment2_publisher_subscriber/setup.sh

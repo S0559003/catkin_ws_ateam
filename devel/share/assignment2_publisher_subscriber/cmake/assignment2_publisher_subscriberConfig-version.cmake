@@ -1,0 +1,1 @@
+/home/ros/catkin_ws_ateam/devel/.private/assignment2_publisher_subscriber/share/assignment2_publisher_subscriber/cmake/assignment2_publisher_subscriberConfig-version.cmake

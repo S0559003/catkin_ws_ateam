@@ -1,0 +1,12 @@
+Symlinking /home/ros/catkin_ws_ateam/devel/./setup.sh
+Symlinking /home/ros/catkin_ws_ateam/devel/./setup.bash
+Symlinking /home/ros/catkin_ws_ateam/devel/./_setup_util.py
+Symlinking /home/ros/catkin_ws_ateam/devel/./cmake.lock
+Symlinking /home/ros/catkin_ws_ateam/devel/./env.sh
+Symlinking /home/ros/catkin_ws_ateam/devel/./setup.zsh
+Symlinking /home/ros/catkin_ws_ateam/devel/./local_setup.sh
+Symlinking /home/ros/catkin_ws_ateam/devel/./local_setup.bash
+Symlinking /home/ros/catkin_ws_ateam/devel/./local_setup.zsh
+Symlinking /home/ros/catkin_ws_ateam/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ros/catkin_ws_ateam/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ros/catkin_ws_ateam/devel/lib/pkgconfig/catkin_tools_prebuild.pc

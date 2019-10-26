@@ -1,0 +1,1 @@
+/home/ros/catkin_ws_ateam/devel/.private/assignment2_publisher_subscriber/lib/pkgconfig/assignment2_publisher_subscriber.pc
